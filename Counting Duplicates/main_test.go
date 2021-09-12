@@ -5,6 +5,6 @@ import (
 	"testing"
 )
 
-func TestParser(t *testing.T) {
+func TestDuplicateCount(t *testing.T) {
 	fmt.Println(duplicate_count("abcdeaB11"))
 }

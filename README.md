@@ -16,6 +16,9 @@ Parse("iiisdoso") == []int{8, 64}
 
 Link: https://www.codewars.com/kata/51e0007c1f9378fa810002a9/go
 
+## Is it a palindrome?
+Write function isPalindrom that checks if a given string (case insensitive) is a palindrom.
+
 ## Counting Duplicates
 Count the number of Duplicates
 Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
